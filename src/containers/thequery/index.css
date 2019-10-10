@@ -1,0 +1,42 @@
+.nohave_box{
+    text-align: center;
+    position: relative;
+}
+.results_box{
+    position: relative;
+}
+.headimg{
+    border-radius: 10px;
+    border:2px solid #ccc;
+    padding:2px;
+}
+.headbox{
+    position: absolute;
+    top: 0;
+    right: 0;
+        background: #fff;
+        margin: 5px;
+}
+.nohave_box p{
+    padding-top:30px;
+}
+.results_box ul{
+    list-style: none;
+}
+.results_box ul li{
+    display: flex;
+    line-height: 30px;
+    border-bottom: 1px dashed #ccc;
+    margin-bottom: 20px;
+}
+.result_left{
+    font-weight: 700;
+    width: 100px;
+    margin-bottom: 0;
+}
+.result_right{
+    margin-bottom: 0;
+}
+.btnsure{
+    margin-left: 150px;
+}

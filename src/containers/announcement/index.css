@@ -1,0 +1,23 @@
+.annout_box ul{
+    list-style: none;
+}
+.annout_box ul li{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px dashed #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.annout_box ul li p{
+    margin-bottom: 0;
+}
+.annout_right{
+    margin-right: 0;
+}
+.Pagination{
+    float: right;
+}
+.anmoulist{
+    color: #000;
+}
